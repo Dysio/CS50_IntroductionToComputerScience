@@ -4,3 +4,4 @@
 - [mario_more](https://cs50.harvard.edu/x/2021/psets/6/mario/more/)
 - [cash](https://cs50.harvard.edu/x/2021/psets/6/cash/)
 - [credit](https://cs50.harvard.edu/x/2021/psets/6/credit/)
+- [readability](https://cs50.harvard.edu/x/2021/psets/6/readability/)
